@@ -1,0 +1,47 @@
+.text-center {
+  text-align: center;
+  margin-top: 0px;
+  font-size: 45px;
+  padding: 5px;
+}
+
+.bx {
+  border: 5px solid black;
+  width: 550px;
+  height: 840px;
+  font-family: 'Fira Code', monospace;
+  font-size: 30px;
+  padding: 10px;
+  margin: 0 3px;
+  border-radius: 60px;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.outside {
+  background-color: #dffdff;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.item-center {
+  align-items: center;
+}
+
+.row {
+  margin: 8px 0;
+}
